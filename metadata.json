@@ -1,0 +1,5 @@
+{
+  "name": "SpecNote",
+  "description": "A minimalist, split-view Markdown editor with integrated LLM capabilities for AI engineers.",
+  "requestFramePermissions": []
+}
